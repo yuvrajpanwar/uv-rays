@@ -7,14 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          First React App .
+          First React App by Yuvraj
         </p>
         <a
           className="App-link"
           href ="https://yuvrajpanwar.github.io/portfolio"
           target='_blank'
+          rel="noreferrer"
         >
-          By Yuvraj
+          Checkout my portfolio
         </a>
       </header>
     </div>
